@@ -1,0 +1,10 @@
+C:\Projekty\3_LOTTO\3_LOTTO\bin\Debug\3_LOTTO.exe.config
+C:\Projekty\3_LOTTO\3_LOTTO\bin\Debug\3_LOTTO.exe
+C:\Projekty\3_LOTTO\3_LOTTO\bin\Debug\3_LOTTO.pdb
+C:\Projekty\3_LOTTO\3_LOTTO\obj\Debug\3_LOTTO.csprojResolveAssemblyReference.cache
+C:\Projekty\3_LOTTO\3_LOTTO\obj\Debug\_3_LOTTO.Properties.Resources.resources
+C:\Projekty\3_LOTTO\3_LOTTO\obj\Debug\3_LOTTO.csproj.GenerateResource.Cache
+C:\Projekty\3_LOTTO\3_LOTTO\obj\Debug\3_LOTTO.exe
+C:\Projekty\3_LOTTO\3_LOTTO\obj\Debug\3_LOTTO.pdb
+C:\Projekty\3_LOTTO\3_LOTTO\obj\Debug\_3_LOTTO.DuzyLotek.resources
+C:\Projekty\3_LOTTO\3_LOTTO\obj\Debug\_3_LOTTO.FormAdd.resources
